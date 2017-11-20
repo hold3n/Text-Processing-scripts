@@ -44,7 +44,7 @@ Problemi conosciuti
 - il file esportato ha qualche problema con excel di office, ma viene aperto senza problemi da open Refine.
 
 
-
+-----
 Copyright (C) 2017  Daniele Iori aka _hold3n <http://ibridodesign.com>
 
 This program is free software: you can redistribute it and/or modify
