@@ -14,7 +14,7 @@ INFO
     
 - INPUT: file xlsx  and given column
 - OUTPUT: file xlsx and elaborated column
-- usage: remove_stopWord.py [-h] [-o FILE_OUT] [-e] [-p] file_in column
+- usage: remove_stopWords.py [-h] [-o FILE_OUT] [-e] [-p] file_in column
 
 ```positional arguments:
   file_in               specify file in
